@@ -4,6 +4,8 @@
 For the 3rd and final project in Udacity Deep Reinforcement Learning Nanodegree, the challenge was to make 2 agents play tennis.
 ![tennis](tennis.png)
 
+The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
+
 ## Installation
 Follow instructions here to get the environemtn up and running: [https://github.com/udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)
 
